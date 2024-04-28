@@ -13,4 +13,5 @@ tests for the app and in the test_input_files folder there are examples of input
 formats that the user can use to insert. In the folder test_output_files there are files that are 
 used in in the tests. 
 In initial code folder there is the code witout refactoring that was not created from me and in the 
-refactoring folder there is the code which i refactored.
+refactoring folder there is the code which i refactored.This project was done in collaboration with one
+fellow student.
