@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Receipts>
+    
+    <Receipt>
+        <ReceiptID>1</ReceiptID>
+        <Date>1/1/2000</Date>
+        <Kind>Coat</Kind>
+        <Sales>100000.0</Sales>
+        <Items>100000</Items>
+        <Company>Creations</Company>
+        <Country>Greece</Country>
+        <City>Ioannina</City>
+        <Street>Kaloudi</Street>
+        <Number>10</Number>
+    </Receipt>
+</Receipts>

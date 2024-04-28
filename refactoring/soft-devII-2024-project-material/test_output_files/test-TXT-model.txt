@@ -1,0 +1,10 @@
+Name: Anna
+AFM: 123456789
+
+
+Total Sales: 100000.0
+Trousers Sales: 0.0
+Skirts Sales: 0.0
+Shirts Sales: 0.0
+Coats Sales: 100000.0
+Commission: 17500.0

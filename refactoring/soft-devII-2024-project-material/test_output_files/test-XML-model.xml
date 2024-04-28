@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Salesman>
+    <Name>Anna</Name>
+    <AFM>123456789</AFM>
+    <TotalSales>100000.0</TotalSales>
+    <TrouserSales>0.0</TrouserSales>
+    <SkirtSales>0.0</SkirtSales>
+    <ShirtSales>0.0</ShirtSales>
+    <CoatSales>100000.0</CoatSales>
+    <Commission>17500.0</Commission>
+</Salesman>
